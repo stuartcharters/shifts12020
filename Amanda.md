@@ -1,3 +1,3 @@
 #SIGNAL Shift 2020
 
-Amanda is writing some stuff here.
+Amanda is writing some silly stuff here.
